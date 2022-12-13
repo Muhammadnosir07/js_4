@@ -1,0 +1,30 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     text-decoration: none;
+}
+body{
+     background-color: rgb(27, 41, 235);
+}
+.box{
+     background-color: rgb(167, 157, 223);
+     width: 200px;
+     height: 100px;
+     margin:250px auto;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     box-shadow: 5px 9px 15px rgb(228, 142, 13);
+     border-radius: 20px;
+     cursor: pointer;
+     color: black;
+
+}
+.text{
+     color: black;
+     text-shadow: 2px 3px 5px rgb(98, 0, 255);
+     font-size: 30px;
+     font-weight: bold;
+     text-decoration: none;
+}
